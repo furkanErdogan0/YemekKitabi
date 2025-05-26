@@ -18,4 +18,4 @@ Projede:
 
 
 
-<img src="https://github.com/user-attachments/assets/aee6f505-8a83-4f0a-b870-326dcecae216" alt="Uygulama Ekran Görüntüsü 1" width="400">
+<img src="https://github.com/user-attachments/assets/aee6f505-8a83-4f0a-b870-326dcecae216" alt="Uygulama Ekran Görüntüsü 1" width="150">
