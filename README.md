@@ -5,17 +5,17 @@ Uygulama boyunca kendi notlarımı yazarak hem kendime bir tekrar etme yöntemi,
 
 Projede:
 
-Asenkron işlemler için RxJava,
-
-Lokal veritabanı işlemleri için Room/SQLite,
-
-Verilerin gösterimi için RecyclerView,
-
-View elemanlarına kolay erişim için View Binding,
-
-Fragmentlar arası geçiş için Navigation Component kullanılmıştır.
-
-
+*   Asenkron işlemler için **RxJava**,
+*   
+*   Lokal veritabanı işlemleri için **Room/SQLite**,
+*   
+*   Verilerin gösterimi için **RecyclerView**,
+*   
+*   View elemanlarına kolay erişim için **View Binding**,
+*   
+*   Fragmentlar arası geçiş için **Navigation Component** kullanılmıştır.
 
 
-![1](https://github.com/user-attachments/assets/aee6f505-8a83-4f0a-b870-326dcecae216)
+
+
+<img src="https://github.com/user-attachments/assets/aee6f505-8a83-4f0a-b870-326dcecae216" alt="Uygulama Ekran Görüntüsü 1" width="400">
