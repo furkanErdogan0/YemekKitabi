@@ -4,8 +4,18 @@ Bu proje, Android geliştirme için SQLite, Room ORM, RxJava ve RecyclerView Ada
 Uygulama boyunca kendi notlarımı yazarak hem kendime bir tekrar etme yöntemi, hem de bu projeyi kullanmak isteyen yeni geliştiricilere bir kaynak olsun istedim. (bazı yerlerde çeşitli LLMlerden aldığım detaylı açıklamalar da mevcuttur)
 
 Projede:
+
 Asenkron işlemler için RxJava,
+
 Lokal veritabanı işlemleri için Room/SQLite,
+
 Verilerin gösterimi için RecyclerView,
+
 View elemanlarına kolay erişim için View Binding,
+
 Fragmentlar arası geçiş için Navigation Component kullanılmıştır.
+
+
+
+
+![1](https://github.com/user-attachments/assets/aee6f505-8a83-4f0a-b870-326dcecae216)
