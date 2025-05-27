@@ -1,7 +1,7 @@
 YemekKitabi
 
-Bu proje, Android geliştirme için SQLite, Room ORM, RxJava ve RecyclerView Adapter gibi konuları pratik bir şekilde anlamak ve anlatmak amacıyla yazılmış giriş seviyesi bir uygulamadır.
-Uygulama boyunca kendi notlarımı yazarak hem kendime bir tekrar etme yöntemi, hem de bu projeyi kullanmak isteyen yeni geliştiricilere bir kaynak olsun istedim. (bazı yerlerde çeşitli LLMlerden aldığım detaylı açıklamalar da mevcuttur)
+Bu proje, Android geliştirme için SQLite, Room ORM, RxJava ve RecyclerView Adapter gibi konuları pratik bir şekilde anlamak ve anlatmak amacıyla yazılmış giriş seviyesi bir uygulamadır. BTK Akademi platformu üzerinden değerli Atıl Samancıoğlu'nun vermiş olduğu Kotlin ile Android Uygulama Geliştirme Temelleri kursu ile beraber ilerleyerek yapılmıştır.
+Uygulama boyunca kendi notlarımı yazarak hem kendime bir tekrar etme yöntemi, hem de bu projeyi kullanmak isteyen diğer geliştiricilere bir kaynak olsun istedim. (bazı yerlerde çeşitli LLMlerden aldığım detaylı açıklamalar da mevcuttur)
 
 Projede:
 
