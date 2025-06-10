@@ -1,5 +1,13 @@
 YemekKitabi
 
+Coverity:
+
+<a href="https://scan.coverity.com/projects/furkanerdogan0-yemekkitabi">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/31913/badge.svg"/>
+</a>
+
+  
 Bu proje, Android geliştirme için SQLite, Room ORM, RxJava ve RecyclerView Adapter gibi konuları pratik bir şekilde anlamak ve anlatmak amacıyla yazılmış giriş seviyesi bir uygulamadır. BTK Akademi platformu üzerinden değerli Atıl Samancıoğlu'nun vermiş olduğu Kotlin ile Android Uygulama Geliştirme Temelleri kursu ile beraber ilerleyerek yapılmıştır.
 Uygulama boyunca kendi notlarımı yazarak hem kendime bir tekrar etme yöntemi, hem de bu projeyi kullanmak isteyen diğer geliştiricilere bir kaynak olsun istedim. (bazı yerlerde çeşitli LLMlerden aldığım detaylı açıklamalar da mevcuttur)
 
